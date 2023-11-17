@@ -1,10 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import App from "./app"
 
-const App = () => {
-    return (
-        <h1>Hallo Dunia Tipu-Tipu</h1>
-    )
-}
+import "./css/style.css";
 
 ReactDOM.render(<App />, document.getElementById("root"));
