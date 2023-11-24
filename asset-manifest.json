@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dc8f3f01.css",
-    "main.js": "/static/js/main.a8a55b0d.js",
+    "main.js": "/static/js/main.462f7f93.js",
     "static/media/keyboard-2.jpg": "/static/media/keyboard-2.d869e2bcdab9c0481945.jpg",
     "static/media/procurement.jpg": "/static/media/procurement.89e8e8cd1555b445e148.jpg",
     "static/media/holirent.jpg": "/static/media/holirent.6deeb3a7dd65d40bd5de.jpg",
@@ -16,10 +16,10 @@
     "static/media/people.webp": "/static/media/people.4993ce56991088b1ab98.webp",
     "index.html": "/index.html",
     "main.dc8f3f01.css.map": "/static/css/main.dc8f3f01.css.map",
-    "main.a8a55b0d.js.map": "/static/js/main.a8a55b0d.js.map"
+    "main.462f7f93.js.map": "/static/js/main.462f7f93.js.map"
   },
   "entrypoints": [
     "static/css/main.dc8f3f01.css",
-    "static/js/main.a8a55b0d.js"
+    "static/js/main.462f7f93.js"
   ]
 }
