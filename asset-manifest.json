@@ -1,21 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.dc8f3f01.css",
-    "main.js": "/static/js/main.ba241d73.js",
+    "main.js": "/static/js/main.a8a55b0d.js",
     "static/media/keyboard-2.jpg": "/static/media/keyboard-2.d869e2bcdab9c0481945.jpg",
+    "static/media/procurement.jpg": "/static/media/procurement.89e8e8cd1555b445e148.jpg",
     "static/media/holirent.jpg": "/static/media/holirent.6deeb3a7dd65d40bd5de.jpg",
     "static/media/trackr-web.jpg": "/static/media/trackr-web.efbcf77dac2bc90eac99.jpg",
+    "static/media/accounting.jpg": "/static/media/accounting.caadbd45189ceeabefe5.jpg",
     "static/media/accel-erp.jpg": "/static/media/accel-erp.ddad97f3a57e8934980c.jpg",
+    "static/media/warehouse.jpg": "/static/media/warehouse.f5d03428e2a647dba94e.jpg",
+    "static/media/sales.jpg": "/static/media/sales.1e308b062b76b26b26ae.jpg",
     "static/media/kontrol-biaya.png": "/static/media/kontrol-biaya.3e2c370940dade0adc40.png",
     "static/media/trackr-mobile.jpg": "/static/media/trackr-mobile.8008ed3deedc38d3c1ab.jpg",
     "static/media/game-suit.jpg": "/static/media/game-suit.b46b191c1c2ed143bf9b.jpg",
     "static/media/people.webp": "/static/media/people.4993ce56991088b1ab98.webp",
     "index.html": "/index.html",
     "main.dc8f3f01.css.map": "/static/css/main.dc8f3f01.css.map",
-    "main.ba241d73.js.map": "/static/js/main.ba241d73.js.map"
+    "main.a8a55b0d.js.map": "/static/js/main.a8a55b0d.js.map"
   },
   "entrypoints": [
     "static/css/main.dc8f3f01.css",
-    "static/js/main.ba241d73.js"
+    "static/js/main.a8a55b0d.js"
   ]
 }
