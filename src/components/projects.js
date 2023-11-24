@@ -13,6 +13,10 @@ import accelERP from "../assets/img/Projects/accel-erp.jpg";
 import trackrWeb from '../assets/img/Projects/trackr-web.jpg';
 import trakcrMobile from "../assets/img/Projects/trackr-mobile.jpg";
 import holirent from "../assets/img/Projects/holirent.jpg";
+import warehouseErp from "../assets/img/Projects/warehouse.jpg";
+import salesErp from "../assets/img/Projects/sales.jpg";
+import prcurementErp from "../assets/img/Projects/procurement.jpg";
+import accountingErp from "../assets/img/Projects/accounting.jpg";
 
 const Projects = () => {
   const [currIdx, setCurrIdx] = useState(0);
@@ -24,7 +28,7 @@ const Projects = () => {
       project_desc: "An Accounting Modul of Interbiss ERP",
       peran: "Adding New Feature And Maintain the Application",
       category: "Professional Project",
-      image: "",
+      image: accountingErp,
     },
     {
       project_name: "Sales Modul of Interbiss ERP",
@@ -32,7 +36,7 @@ const Projects = () => {
       project_desc: "A Sales Modul of Interbiss ERP",
       peran: "Adding New Feature And Maintain the Application",
       category: "Professional Project",
-      image: "",
+      image: salesErp,
     },
     {
       project_name: "Procurement Modul of Interbiss ERP",
@@ -40,7 +44,7 @@ const Projects = () => {
       project_desc: "A Procurement Modul of Interbiss ERP",
       peran: "Adding New Feature And Maintain the Application",
       category: "Professional Project",
-      image: "",
+      image: prcurementErp,
     },
     {
       project_name: "Warehouse Modul of Interbiss ERP",
@@ -48,7 +52,7 @@ const Projects = () => {
       project_desc: "A Warehouse Modul of Interbiss ERP",
       peran: "Adding New Feature And Maintain the Application",
       category: "Professional Project",
-      image: "",
+      image: warehouseErp,
     },
     {
       project_name: "Kontrol Biaya",

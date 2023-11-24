@@ -1,5 +1,5 @@
 import React from "react";
-import { Carousel, FloatButton, Progress } from "antd";
+import { FloatButton, Progress } from "antd";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebook, faInstagram, faLinkedin, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
 import { faCircleInfo, faX } from "@fortawesome/free-solid-svg-icons";
@@ -7,7 +7,6 @@ import { faCircleInfo, faX } from "@fortawesome/free-solid-svg-icons";
 // Import Component
 import Header from "./components/header";
 import Projects from "./components/projects";
-
 import people from "./assets/img/people.webp"
 
 const App = () => {
@@ -63,7 +62,7 @@ const App = () => {
                 <h4>You can contact me in this social media</h4>
                 <div style={{flexDirection: "row"}}>
                 <button className="btn-contact"><FontAwesomeIcon icon={faWhatsapp} size="2xl"/></button>
-                <button className="btn-contact"><FontAwesomeIcon icon={faLinkedin} size="2xl"/></button>
+                <button className="btn-contact" onClick={() => navi}><FontAwesomeIcon icon={faLinkedin} size="2xl"/></button>
                 <button className="btn-contact"><FontAwesomeIcon icon={faFacebook} size="2xl"/></button>
                 <button className="btn-contact"><FontAwesomeIcon icon={faInstagram} size="2xl"/></button>
                 <button className="btn-contact"><FontAwesomeIcon icon={faX} size="2xl"/></button>
